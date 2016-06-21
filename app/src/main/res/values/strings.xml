@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">EjemploMaterial</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="boton_agregar">Agregar</string>
+    <string name="boton_actualizar">Actualizar</string>
+    <string name="boton_borrar">Borrar</string>
+    <string name="fab">Agregar Evento</string>
+    <string name="titulo_activity_editar">Editar Evento Activity</string>
+    <string name="titulo_activity_agregar">Agregar Evento Activity</string>
+
+    <string-array name="names_array">
+        <item>Entrenamiento matinal con Luis</item>
+        <item>Comprar regalo de mamá</item>
+        <item>Preparar libros para curso de Java</item>
+        <item>Junta en la Dirección</item>
+        <item>Limpiar escritorio</item>
+        <item>Recoger trajes de la tintorería</item>
+        <item>Entregarle libro de Android a Carmen</item>
+        <item>Leer sección de Finanzas</item>
+        <item>Llevar a lavar el auto</item>
+        <item>Llamarle a papá por la noche</item>
+        <item>Comprar boletos para la ópera</item>
+        <item>Invitar un café a mi secretaría</item>
+        <item>Revisar aplicación de cambio de divisas</item>
+        <item>Felicitar a Peter por su cumpleaños</item>
+        <item>Pagar 200 pesos a Miguel</item>
+        <item>Entrenamiento matinal con Luis</item>
+        <item>Comprar regalo de mamá</item>
+        <item>Preparar libros para curso de Java</item>
+        <item>Junta en la Dirección</item>
+        <item>Limpiar escritorio</item>
+        <item>Recoger trajes de la tintorería</item>
+        <item>Entregarle libro de Android a Carmen</item>
+        <item>Leer sección de Finanzas</item>
+        <item>Llevar a lavar el auto</item>
+        <item>Llamarle a papá por la noche</item>
+        <item>Comprar boletos para la ópera</item>
+        <item>Invitar un café a mi secretaría</item>
+        <item>Revisar aplicación de cambio de divisas</item>
+        <item>Felicitar a Peter por su cumpleaños</item>
+        <item>Pagar 200 pesos a Miguel</item>
+        <item>Entrenamiento matinal con Luis</item>
+        <item>Comprar regalo de mamá</item>
+        <item>Preparar libros para curso de Java</item>
+        <item>Junta en la Dirección</item>
+        <item>Limpiar escritorio</item>
+        <item>Recoger trajes de la tintorería</item>
+        <item>Entregarle libro de Android a Carmen</item>
+        <item>Leer sección de Finanzas</item>
+        <item>Llevar a lavar el auto</item>
+        <item>Llamarle a papá por la noche</item>
+        <item>Comprar boletos para la ópera</item>
+        <item>Invitar un café a mi secretaría</item>
+        <item>Revisar aplicación de cambio de divisas</item>
+        <item>Felicitar a Peter por su cumpleaños</item>
+        <item>Pagar 200 pesos a Miguel</item>
+        <item>Entrenamiento matinal con Luis</item>
+        <item>Comprar regalo de mamá</item>
+        <item>Preparar libros para curso de Java</item>
+        <item>Junta en la Dirección</item>
+        <item>Limpiar escritorio</item>
+    </string-array>
+</resources>
